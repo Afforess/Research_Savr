@@ -1,0 +1,9 @@
+{
+  "name": "Research_Savr",
+  "version": "{{VERSION}}",
+  "title": "Research Savr",
+  "author": "Afforess",
+  "homepage": "http://afforess.com",
+  "description": "Switch research and resume from where you left off!",
+  "dependencies": ["base >= 0.12.29"]
+}
