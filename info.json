@@ -2,8 +2,9 @@
   "name": "Research_Savr",
   "version": "{{VERSION}}",
   "title": "Research Savr",
+  "factorio_version": "0.13",
   "author": "Afforess",
   "homepage": "http://afforess.com",
-  "description": "Switch research and resume from where you left off!",
-  "dependencies": ["base >= 0.12.29"]
+  "description": "Switch research and resume research from where you left off!",
+  "dependencies": []
 }

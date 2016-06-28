@@ -1,4 +1,3 @@
-require 'defines'
 require 'stdlib/table'
 require 'stdlib/event/event'
 
